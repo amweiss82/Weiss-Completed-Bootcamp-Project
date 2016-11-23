@@ -1,0 +1,23 @@
+body {
+  margin:0 200px;
+}
+
+#OrgSearch {
+  width:80%;
+  padding: 7px 5px;
+}
+
+#Search {
+  height:35px;
+  margin:10px 0;
+  background-color:#428BCA;
+  color:white;
+  border-radius:5px;
+}
+
+.SearchResults {
+  display:inline-block;
+  width:40%;
+  margin:40px 30px;
+}
+
